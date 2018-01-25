@@ -24,7 +24,7 @@
 
 
             <StackLayout Orientation="Horizontal"
-                         Spacing ="50">
+                         Spacing ="70">
 
 
                 <Button x:Name="全部"
@@ -35,7 +35,7 @@
                         BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
                 <Button x:Name="腹"
                         Text="腹"
@@ -45,7 +45,7 @@
                       BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
 
                 <Button x:Name="腕"
@@ -56,7 +56,7 @@
                         BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
 
                 <Button x:Name="背中"
@@ -67,7 +67,7 @@
                         BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
 
                 <Button x:Name="胸肩"
@@ -78,7 +78,7 @@
                         BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
                 <Button x:Name="脚"
                         Text="脚"
@@ -88,7 +88,7 @@
                         BackgroundColor="RoyalBlue" 
                         TextColor="White"
                         FontSize="Large" 
-                        VerticalOptions="StartAndExpand"/>
+                        VerticalOptions="Start"/>
 
 
             </StackLayout>
