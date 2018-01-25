@@ -38,59 +38,65 @@
 
 
                 <Button x:Name="全部"
-                        Text="　　　全部　　　"
+                        Text="　全部　"
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="全部_Clicked"
-                        
+                        BackgroundColor="AliceBlue"
+                        TextColor="White"
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
                 <Button x:Name="腹"
-                        Text="　　　腹　　　"
+                        Text="　腹　"
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="腹_Clicked"
-                      
+                      BackgroundColor="AliceBlue"
+                        TextColor="White"
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
 
                 <Button x:Name="腕"
-                        Text="　　　腕　　　"
+                        Text="　腕　"
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="腕_Clicked"
-                        
+                        BackgroundColor="AliceBlue"
+                        TextColor="White"
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
 
                 <Button x:Name="背中"
-                        Text="　　　背中　　　"
+                        Text="　背中　"
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="背中_Clicked"
-                        
+                        BackgroundColor="AliceBlue"
+                        TextColor="White"
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
 
                 <Button x:Name="胸肩"
-                        Text="　　　胸肩　　　"
+                        Text="　胸肩　"
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="胸肩_Clicked"
-                        
+                        BackgroundColor="AliceBlue"
+                        TextColor="White"
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
                 <Button x:Name="脚"
-                        Text="　　　脚　　　"
+                        Text="　脚　"
                          WidthRequest="70"
                         HeightRequest="15"
                         Clicked="脚_Clicked"
-                        
+                        BackgroundColor="AliceBlue"
+                        TextColor="White"
                         VerticalOptions="Start"
                         FontSize="Large" 
                         />
