@@ -48,7 +48,7 @@ namespace MuscleTrainingRecords00
                 //Boolean bDone = eDone.IsToggled;
                 int B_Weight = int.Parse(bWeight.Text);
                 int B_Fat = int.Parse(bFat.Text);
-                DateTime dCreated = DateTime.Today;
+                DateTime dCreated = DateTime.Today.AddDays(+1);
 
 
                 TodoItem sameDateItem = await db.GetItemByCreatedAsync(dCreated);
