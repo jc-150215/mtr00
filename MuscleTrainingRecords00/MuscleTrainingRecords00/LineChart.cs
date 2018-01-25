@@ -106,9 +106,9 @@ namespace MuscleTrainingRecords00
                 MajorStep = 10,
                 MajorGridlineStyle = LineStyle.Solid,
                 MinorGridlineStyle = LineStyle.Dot,
-                ExtraGridlines = new double[] { 1, 2, 3, 8, 9, 10 },
+               /* ExtraGridlines = new double[] { 1, 2, 3, 8, 9, 10 },
                 ExtraGridlineThickness = 3,
-                ExtraGridlineColor = OxyColors.SkyBlue,
+                ExtraGridlineColor = OxyColors.SkyBlue,*/
 
 
 
