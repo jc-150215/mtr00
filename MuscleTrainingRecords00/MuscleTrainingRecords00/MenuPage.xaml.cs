@@ -119,7 +119,7 @@ namespace MuscleTrainingRecords00
         }
 
         //SearchBarを押した時のイベントハンドラ
-        private void Select_SearchButtonPressed(object sender, EventArgs e)
+        //private void Select_SearchButtonPressed(object sender, EventArgs e)
         {
             /*TrainingDatabase itemDataBase = TrainingDatabase.getDatabase();
             List<Training> itemList = await itemDataBase.GetItemsAsyncByParts(Select.Text);
@@ -133,7 +133,7 @@ namespace MuscleTrainingRecords00
                 this.listView.ItemsSource = "データがありません";
             }*/
 
-        }
+        //}
 
         private async void 全部_Clicked(object sender, EventArgs e)
         {
@@ -182,7 +182,7 @@ namespace MuscleTrainingRecords00
             listView.ItemsSource = itemList;
         }
 
-        private void Sort_SelectedIndexChanged_1(object sender, EventArgs e)
+        /*private void Sort_SelectedIndexChanged_1(object sender, EventArgs e)
         {
 
             //int s = Sort.SelectedIndex;
@@ -204,7 +204,7 @@ namespace MuscleTrainingRecords00
                 // ListViewを生成する
                 listView.ItemsSource = array1;
             }
-        }
+        }*/
 
         private void listView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
