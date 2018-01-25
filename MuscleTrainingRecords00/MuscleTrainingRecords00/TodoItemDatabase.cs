@@ -16,6 +16,7 @@ namespace MuscleTrainingRecords00
             database = new SQLiteAsyncConnection(dbPath);
             database.CreateTableAsync<TodoItem>().Wait();
             
+            
         }
 
         public Task<List<TodoItem>> GetItemsAsync()
