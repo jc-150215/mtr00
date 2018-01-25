@@ -120,7 +120,7 @@ namespace MuscleTrainingRecords00
 
         //SearchBarを押した時のイベントハンドラ
         //private void Select_SearchButtonPressed(object sender, EventArgs e)
-        {
+        //{
             /*TrainingDatabase itemDataBase = TrainingDatabase.getDatabase();
             List<Training> itemList = await itemDataBase.GetItemsAsyncByParts(Select.Text);
             listView.ItemsSource = itemList;*/
