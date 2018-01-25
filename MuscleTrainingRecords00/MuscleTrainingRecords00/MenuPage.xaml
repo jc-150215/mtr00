@@ -23,7 +23,8 @@
                            SearchButtonPressed="Select_SearchButtonPressed"/>
 
 
-            <StackLayout Orientation="Horizontal">
+            <StackLayout Orientation="Horizontal"
+                         Spacing ="50">
 
 
                 <Button x:Name="全部"
