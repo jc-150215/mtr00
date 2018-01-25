@@ -32,8 +32,7 @@
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="全部_Clicked"
-                        BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                        
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
@@ -42,8 +41,7 @@
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="腹_Clicked"
-                      BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                      
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
@@ -53,8 +51,7 @@
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="腕_Clicked"
-                        BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                        
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
@@ -64,8 +61,7 @@
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="背中_Clicked"
-                        BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                        
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
@@ -75,8 +71,7 @@
                         WidthRequest="70"
                         HeightRequest="15"
                         Clicked="胸肩_Clicked"
-                        BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                        
                         FontSize="Large" 
                         VerticalOptions="Start"/>
 
@@ -85,10 +80,10 @@
                          WidthRequest="70"
                         HeightRequest="15"
                         Clicked="脚_Clicked"
-                        BackgroundColor="RoyalBlue" 
-                        TextColor="White"
+                        
+                        VerticalOptions="Start"
                         FontSize="Large" 
-                        VerticalOptions="Start"/>
+                        />
 
 
             </StackLayout>
