@@ -36,6 +36,7 @@ namespace MuscleTrainingRecords00
             try
             {
 
+
                 if (bWeight.Text == null || bFat.Text == null)
                 {
                     DisplayAlert("", "数値を入力してください", "OK");
