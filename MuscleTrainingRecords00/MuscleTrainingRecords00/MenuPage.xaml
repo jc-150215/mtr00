@@ -39,7 +39,7 @@
 
                 <Button x:Name="全部"
                         Text="　全部　"
-                        WidthRequest="100"
+                        WidthRequest="150"
                         HeightRequest="15"
                         Clicked="全部_Clicked"
                         BackgroundColor="Blue"
@@ -50,7 +50,7 @@
 
                 <Button x:Name="腹"
                         Text="　腹　"
-                        WidthRequest="100"
+                        WidthRequest="150"
                         HeightRequest="15"
                         Clicked="腹_Clicked"
                       BackgroundColor="Blue"
@@ -61,7 +61,7 @@
 
                 <Button x:Name="腕"
                         Text="　腕　"
-                        WidthRequest="100"
+                        WidthRequest="150"
                         HeightRequest="15"
                         Clicked="腕_Clicked"
                         BackgroundColor="Blue"
@@ -73,7 +73,7 @@
                 <Button x:Name="背中"
                         Text="　背中　"
                         HeightRequest="15"
-                        WidthRequest="100"
+                        WidthRequest="150"
                         Clicked="背中_Clicked"
                         BackgroundColor="Blue"
                         TextColor="White"
@@ -85,7 +85,7 @@
                         Text="　胸肩　"
       
                         HeightRequest="15"
-                        WidthRequest="100"
+                        WidthRequest="150"
                         Clicked="胸肩_Clicked"
                         BackgroundColor="Blue"
                         TextColor="White"
@@ -94,7 +94,7 @@
 
                 <Button x:Name="脚"
                         Text="　脚　"
-                         WidthRequest="100"
+                         WidthRequest="150"
                         HeightRequest="15"
                         Clicked="脚_Clicked"
                         BackgroundColor="Blue"
